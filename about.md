@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Hi! I'm Aisha, some facts about me:
+- Senior @ NYU Tandon School of Engineering
+- Major: Computer Science
+- Minors: Mathematics and Integrated Design and Media (IDM)
+- Home: Kuala Lumpur, Malaysia
+- Interests: Cooking, Hiking, Photography, Design, Dancing
