@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 1   | [GitHub Issue](https://github.com/joannakl/ossd/issues/149)    | Course Website    |   I reported an issue on a broken link.     |
-|     |     |     |      |
+| Feb 8    | [Wikipedia Everlane Article](https://en.wikipedia.org/w/index.php?title=Everlane&diff=prev&oldid=1337357128)    | Wikipedia    |   I added more detail on a clothing brand article about Laufey x Everlane's collaboration.      |
 |     |     |     |      |
