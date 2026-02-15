@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 1   | [GitHub Issue](https://github.com/joannakl/ossd/issues/149)    | Course Website    |   I reported an issue on a broken link.     |
 | Feb 8    | [Wikipedia Everlane Article](https://en.wikipedia.org/w/index.php?title=Everlane&diff=prev&oldid=1337357128)    | Wikipedia    |   I added more detail on a clothing brand article about Laufey x Everlane's collaboration.      |
-|     |     |     |      |
+| Feb 15    | [OpenStreetMap Building](https://www.openstreetmap.org/changeset/178588159#map=19/3.175266/101.584221)    | OpenStreetMap    |   I added a cultural centre building near my residential area.      |
