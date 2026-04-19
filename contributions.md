@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 | Feb 15    | [OpenStreetMap Building](https://www.openstreetmap.org/changeset/178588159#map=19/3.175266/101.584221)    | OpenStreetMap    |   I added a cultural centre building near my residential area.      |
 | Feb 22    | [OpenStreetMap Playground](https://www.openstreetmap.org/changeset/178843580#map=19/3.175147/101.584674)    | OpenStreetMap    |   I added a playground near my residential area.      |
 | Mar 1   | [GitHub Issue](https://github.com/joannakl/ossd/issues/160)    | Course Website    |   I reported an issue on a broken link.     |
-| Mar 23   | [GitHub PR](https://github.com/joannakl/ossd/pull/162)    | Course Website    |   I updated the Midterm/Final exam dates     |
+| Mar 23   | [GitHub PR](https://github.com/joannakl/ossd/pull/162)    | Course Website    |   I updated the Midterm/Final exam dates.     |
+| Apr 18   | [GitHub PR](https://github.com/lokus-ai/lokus/pull/442)    | Lokus    |   I updated the CONTRIBUTING.md section links.     |
